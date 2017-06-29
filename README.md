@@ -40,7 +40,7 @@ Rules different from pinyin (compulsory):
 
 More rules to shorten spelling (not compulsory):
 
-1. zh/ch/sh can be replaced by j/q/x; ng can be replaced by g; van can be replaced by va; iong can be replaced by vg.
+1. zh/ch/sh can be replaced by j/q/x; ng can be replaced by g; uo can be replaced by o; van can be replaced by va; iong can be replaced by vg.
 
 2. ia can be replaced by y. ai can be replace by y when after g/k/h/d/l (because gia/kia/hia do not exist, and 嗲/倆 are the only character for dia/lia respectively): 加jia/jy, 天tian/tyn, 開kai/ky, 帶dai/dy, 快kuai/kuy.
 
@@ -50,7 +50,7 @@ More rules to shorten spelling (not compulsory):
 
 其他縮短編碼的規則（非必選）：
 
-1. zh/ch/sh可以替換爲j/q/x；ng可以替換爲g；van可以替換爲va；iong可以替換爲vg。
+1. zh/ch/sh可以替換爲j/q/x；ng可以替換爲g；uo可以替換爲o；van可以替換爲va；iong可以替換爲vg。
 
 2. ia可以替換爲y。ai在g/k/h/d/l後時可以替換爲y（因爲不存在gia/kia/hia，且嗲/倆分別是dia/lia的唯一漢字）：加jia/jy，天tian/tyn，開kai/ky，帶dai/dy，快kuai/kuy。
 
