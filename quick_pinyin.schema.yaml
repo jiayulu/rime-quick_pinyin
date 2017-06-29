@@ -10,7 +10,7 @@ schema:
   description: |
     基於漢語拼音，縮短字碼，並減少重碼率。
     必選規則：分尖團（z/c/s）、-m/n韻尾；zhi/chi/shi/zi/ci/si韻母改爲r；零聲母不用y/w而用韻母原形式，you改iu，wei改ui。
-    可選規則：zh-j，ch-q，sh-x，ng-g，uo-o；van-va，iong-vg；y可代替ia（嗲倆除外），該音節不存在時可代替ai；w可代替ao，該音節不存在時可代替ua；g/k/h後i可代替ua，fi可替代fei。
+    可選規則：zh-j，ch-q，sh-x，ng-g，uo-o，van-va，iong-vg；y可代替ia（嗲倆除外），該音節不存在時可代替ai；w可代替ao，該音節不存在時可代替ua；g/k/h後i可代替ua，fi可替代fei。
     可用地球拼音的聲調表示方案。
   dependencies:
     - stroke
