@@ -30,7 +30,7 @@ Rules different from pinyin (compulsory):
 
 與拼音不同的規則（必選）：
 
-1. 和團音。聲母按京劇的發音方式：近jin / 進zin（普通話均爲jin）。
+1. 區分尖音和團音。聲母按京劇的發音方式：近jin / 進zin（普通話均爲jin）。
 
 2. 區分-m/n韻尾，以中古漢語爲準：巾jin / 金jim（普通話均爲jin）。
 
