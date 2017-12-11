@@ -14,7 +14,7 @@ Shuangpin is not adopted. Though its spelling is even shorter, it does not allow
 
 未採用雙拼，儘管其編碼更短，但它不支持用每個字的首字母打出一個詞。本輸入法支持首字母縮寫。
 
-Tones can also be added when typing (-/<\), in the same way as Terra-pinyin https://github.com/rime/rime-terra-pinyin
+Tones can also be added when typing (-/< \\\), in the same way as Terra-pinyin https://github.com/rime/rime-terra-pinyin
 
 打字時也可以增加聲調來檢字（-/<\），方案與地球拼音相同 https://github.com/rime/rime-terra-pinyin
 
